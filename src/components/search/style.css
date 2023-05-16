@@ -1,0 +1,22 @@
+.search {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.search .inputBox {
+    padding: 6px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search .searchbtn {
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 50px;
+    background-color: darkcyan;
+    box-shadow: 2px 4px 10px black;
+}
